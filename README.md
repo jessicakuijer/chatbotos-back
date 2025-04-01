@@ -2,6 +2,8 @@
 
 ChatbotOS est une application Symfony qui achemine intelligemment les messages des utilisateurs entre différents modèles d'IA en fonction de leur contenu émotionnel.
 
+Ce dépôt contient la partie backend du projet. La partie frontend est développée avec Svelte et disponible ici : [https://github.com/jessicakuijer/chatbotos-front](https://github.com/jessicakuijer/chatbotos-front)
+
 ## Fonctionnalités clés
 
 - **Analyse émotionnelle** : Classification du contenu émotionnel des messages utilisateurs via OpenAI (GPT-4o)
